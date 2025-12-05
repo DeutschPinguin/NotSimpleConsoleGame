@@ -4,5 +4,5 @@ if [[ ! -d "build_windows" ]]; then
 fi
 
 cd build_windows
-cmake ..
+cmake .. -DCMAKE_TOOLCHAIN_FILE=windows.cmake
 cmake --build .

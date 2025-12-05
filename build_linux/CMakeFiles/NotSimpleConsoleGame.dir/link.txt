@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/NotSimpleConsoleGame.dir/src/main.c.o CMakeFiles/NotSimpleConsoleGame.dir/src/a/bebe.c.o CMakeFiles/NotSimpleConsoleGame.dir/src/abebe.c.o -o NotSimpleConsoleGame 

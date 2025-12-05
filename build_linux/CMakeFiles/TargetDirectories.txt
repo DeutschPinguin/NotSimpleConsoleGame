@@ -1,3 +1,0 @@
-/home/dgch/Saves/NotSimpleConsoleGame/build_linux/CMakeFiles/NotSimpleConsoleGame.dir
-/home/dgch/Saves/NotSimpleConsoleGame/build_linux/CMakeFiles/edit_cache.dir
-/home/dgch/Saves/NotSimpleConsoleGame/build_linux/CMakeFiles/rebuild_cache.dir

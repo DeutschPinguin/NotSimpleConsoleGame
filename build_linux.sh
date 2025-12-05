@@ -4,5 +4,5 @@ if [[ ! -d "build_linux" ]]; then
 fi
 
 cd build_linux
-cmake ..
+cmake .. -DCMAKE_TOOLCHAIN_FILE=linux.cmake
 cmake --build .
